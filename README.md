@@ -5,7 +5,7 @@
 랜딩 페이지 예제를 따라 공부하면서 배웠던 함수와 라이브러리 등을 간략하게 정리하여 설명합니다.<br/>
 
 netlify<br/>
-[Starbucks DEMO](https://fluffy-fenglisu-fd5ea1.netlify.app, "스타벅스 홈페이지 이동")
+[Starbucks DEMO](https://fluffy-fenglisu-fd5ea1.netlify.app)
 
 # 오픈 그래프(The Open Graph protocol)
 웹페이지가 소셜 미디어(페이스북 등)로 공유될 때 우선적으로 활용되는 정보를 지정합니다.
